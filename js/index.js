@@ -1,5 +1,5 @@
 const apiKey = '1f3ecaf8ea73cb6baa1d8bb72777e45f'; // Replace with your OpenWeatherMap API key
-const city = 'chapel hill';
+const city = 'Chapel Hill';
 const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=imperial`;
 
 fetch(apiUrl)
