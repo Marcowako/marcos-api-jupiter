@@ -2,15 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #573434;
 }
 
 h1, h2 {
-    color: #333;
+    color: #48991f;
 }
 
 #projects {
-    background: white;
+    background: rgb(212, 13, 13);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
